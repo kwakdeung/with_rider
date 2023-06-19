@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:with_rider/sign_up.dart';
 
+import 'forgot_password.dart';
 import 'register_shipping_method.dart';
 
 class Login extends StatefulWidget {
@@ -64,7 +65,14 @@ class _LoginState extends State<Login> {
           Align(
             alignment: Alignment.centerLeft,
             child: InkWell(
-              onTap: () {},
+              onTap: () {
+                Navigator.pushReplacement(
+                  context,
+                  MaterialPageRoute(
+                    builder: ((context) => const ForgotPassword()),
+                  ),
+                );
+              },
               child: Container(
                 margin: EdgeInsets.fromLTRB(30, 0, 30, 20),
                 child: Text(
