@@ -6,7 +6,7 @@ import 'register_shipping_method.dart';
 import 'select_delivery_area.dart';
 import 'service_guide.dart';
 import 'set_order_notification_scope.dart';
-import 'withdrawal_account_management.dart';
+import 'account_management.dart';
 
 class EndDrawer extends StatelessWidget {
   const EndDrawer({super.key});
@@ -71,7 +71,7 @@ class EndDrawer extends StatelessWidget {
           ),
           ListTile(
             title: const Text(
-              '출금계좌관리',
+              '계좌관리',
               style: TextStyle(
                 fontWeight: FontWeight.bold,
                 color: Colors.white,
@@ -82,7 +82,7 @@ class EndDrawer extends StatelessWidget {
               Navigator.pushReplacement(
                 context,
                 MaterialPageRoute(
-                  builder: ((context) => const WithdrawalAccountManagement()),
+                  builder: ((context) => const AccountManagement()),
                 ),
               );
             },

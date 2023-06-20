@@ -3,16 +3,14 @@ import 'package:flutter/material.dart';
 import 'end_drawer.dart';
 import 'shipping.dart';
 
-class WithdrawalAccountManagement extends StatefulWidget {
-  const WithdrawalAccountManagement({super.key});
+class AccountManagement extends StatefulWidget {
+  const AccountManagement({super.key});
 
   @override
-  State<WithdrawalAccountManagement> createState() =>
-      _WithdrawalAccountManagementState();
+  State<AccountManagement> createState() => _AccountManagementState();
 }
 
-class _WithdrawalAccountManagementState
-    extends State<WithdrawalAccountManagement> {
+class _AccountManagementState extends State<AccountManagement> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -41,7 +39,7 @@ class _WithdrawalAccountManagementState
                     icon: Icon(Icons.arrow_back)),
               ),
               Text(
-                '출금계좌관리',
+                '계좌관리',
                 style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
               ),
             ],
