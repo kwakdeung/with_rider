@@ -18,7 +18,7 @@ class ShippingInformationDetails extends StatefulWidget {
 class _ShippingInformationDetailsState
     extends State<ShippingInformationDetails> {
   final String nativeAppKey =
-      "306303fa453b35de828e854d3bc01702"; // 발급받은 nativeAppKey 값 설정
+      "6478914610bf719f8752f488b5918ddb"; // 발급받은 nativeAppKey 값 설정 306303fa453b35de828e854d3bc01702
 
   Future<void> _launchKakaoNavi() async {
     KakaoSdk.init(nativeAppKey: nativeAppKey); // Kakao SDK 초기화
