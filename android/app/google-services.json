@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "173217707842",
+    "project_id": "with-e0957",
+    "storage_bucket": "with-e0957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173217707842:android:bcbc41d7b2cbe7a14ffadb",
+        "android_client_info": {
+          "package_name": "com.with.with"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173217707842-mjfuq6gof79120u8st4v8gcjgj07983a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHrppVmPEcBclUwh6PKfjXxs6NywEUF3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173217707842-mjfuq6gof79120u8st4v8gcjgj07983a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173217707842-6n69ee7d7552m61avkforn6vcuo2j851.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.with.withrider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173217707842:android:2b08b85e1879a29f4ffadb",
+        "android_client_info": {
+          "package_name": "com.with.withrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173217707842-mjfuq6gof79120u8st4v8gcjgj07983a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHrppVmPEcBclUwh6PKfjXxs6NywEUF3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173217707842-mjfuq6gof79120u8st4v8gcjgj07983a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173217707842-6n69ee7d7552m61avkforn6vcuo2j851.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.with.withrider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173217707842:android:d39e54766e2d37a74ffadb",
+        "android_client_info": {
+          "package_name": "com.with.withsilver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173217707842-mjfuq6gof79120u8st4v8gcjgj07983a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHrppVmPEcBclUwh6PKfjXxs6NywEUF3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173217707842-mjfuq6gof79120u8st4v8gcjgj07983a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173217707842-6n69ee7d7552m61avkforn6vcuo2j851.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.with.withrider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173217707842:android:5ccffa3b85563d594ffadb",
+        "android_client_info": {
+          "package_name": "com.with.withuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173217707842-mjfuq6gof79120u8st4v8gcjgj07983a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHrppVmPEcBclUwh6PKfjXxs6NywEUF3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173217707842-mjfuq6gof79120u8st4v8gcjgj07983a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173217707842-6n69ee7d7552m61avkforn6vcuo2j851.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.with.withrider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
